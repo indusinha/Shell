@@ -1,4 +1,4 @@
-#!/bin/bash
+i#!/bin/bash
 ################################
 # Author: Abhishek
 # Version: v1
@@ -9,7 +9,7 @@
 # Usage:
 #   Please provide your github token and rest api to the script as input
 #
-#
+# Hey Abhishek, Thank you for the wonderful interview-guide session. This Script is very helpful to retrieve information from the Github.
 ################################
 
 if [ ${#@} -lt 2 ]; then
